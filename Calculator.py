@@ -4,7 +4,7 @@ from typing import Union
 class Calculator:
 
     def __init__(self):
-        '''Calculator class initialiazed'''
+        '''Empty init'''
         pass
 
     def divide(self, number1: Union[int, float], number2: Union[int, float]):
